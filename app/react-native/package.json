@@ -1,0 +1,13 @@
+{
+  "name": "openevconnect",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.0",
+    "react-native-ble-manager": "^7.6.2"
+  }
+}
